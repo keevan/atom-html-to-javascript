@@ -1,0 +1,19 @@
+{
+  "name": "html-to-javascript",
+  "main": "./lib/atom-html-to-javascript",
+  "version": "0.0.0",
+  "description": "HTML to Javascript as string, and vice versa.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-html-to-javascript:convert"
+  },
+  "repository": "https://github.com/keevan/atom-html-to-javascript",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.0.0"
+  }
+}
