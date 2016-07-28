@@ -17,6 +17,8 @@ This is my first atom package.
 
 Please bear with me :D
 
+Default hotkey set to ctrl+shift+j, you can change this in the keymap file of atom, using the command 'atom-html-to-javascript:convert'
+
 TODO:
 - Convert Javascript string of HTML back in to HTML form for easy manipulation.
 - Optionally get ignore empty lines (by default)
