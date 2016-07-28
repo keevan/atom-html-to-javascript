@@ -1,7 +1,7 @@
 {
   "name": "html-to-javascript",
   "main": "./lib/atom-html-to-javascript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTML to Javascript as string, and vice versa.",
   "keywords": [],
   "activationCommands": {
