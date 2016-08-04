@@ -1,4 +1,4 @@
-# html-to-javascript package
+# html-to-javascript
 
 This converts text string to a javascript variable or javascript ready code.
 This package is intended to be used for the conversion of HTML code in to a javascript variable for later use.
@@ -30,4 +30,3 @@ You should be able to change this in the keymap file of atom, using the command 
 - Detect what state it is in and toggle between the two. (rather than just having a key to convert forward, and one backwards)
 - Remove unneeded package generator generated code.
 - There will be a hotkey for HTML-to-Javascript and one for Javascript-to-HTML.
-
